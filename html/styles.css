@@ -1,13 +1,14 @@
 body {
     background-color: #ffffff;
-    text-align: center;
-    font-family: Arial;
-    font-size: 40px;
   }
 
   /* Header styling here */
   .header {
     overflow: hidden;
     background-color: #f1f1f1;
-    padding: 20px 10px;
+    padding: 40px 10px;
   }
+  .header-right {
+    float: right;
+  }
+
