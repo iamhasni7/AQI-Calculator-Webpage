@@ -15,6 +15,7 @@ body {
     box-shadow: 2px 2px 2px grey;
   }
   .header-right {
+    text-decoration: none;
     float: right;
   }
 
@@ -40,9 +41,16 @@ body {
   }
    .p{
     font-size: 20px;
-    padding: 30px;
+    padding: 20px;
     }
-    /* .region{
-
-    } */
+    .region1{
+      position: absolute;
+      left: 11%;
+      bottom: 76%;
+    }
+    .region2{
+      position: absolute;
+      left: 30%;
+      bottom: 76%;
+    }
 
