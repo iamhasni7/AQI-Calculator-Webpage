@@ -51,15 +51,33 @@ body {
       font-size: 16px;
     }
     .p1{
-      /* position: absolute; */
       font-size: 20px;
       padding: 20px;
-      /* top: 210px; */
     }
       select{
         position:absolute;
         left: 11%;
         top: 29%;
         width: 210px;
+      }
+    .p2{
+      font-size: 20px;
+      padding: 20px;
+    }
+      label1{
+        position:absolute;
+        left: 11%;
+        top: 35%;
+        text-decoration: underline;
+        font-weight: bold;
+      }
+    .p3{
+      font-size: 20px;
+      padding: 20px;
+    }
+      input{
+        /* position:absolute;
+        left: 11%; */
+        /* top: 50%; */
       }
 
